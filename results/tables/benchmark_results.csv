@@ -1,0 +1,16 @@
+GraphSize,Vertices,Edges,Algorithm,AvgTimeMs,AvgOperations
+Small,10,30,Kruskal,0,0492,77
+Small,10,30,Prim,0,0713,74
+Small,10,30,TopologicalSort,0,0455,80
+Small,10,30,TarjanSCC,0,0388,60
+Small,10,30,Dijkstra,0,0673,75
+Medium,100,500,Kruskal,0,5606,1362
+Medium,100,500,Prim,0,4193,1238
+Medium,100,500,TopologicalSort,0,1756,1200
+Medium,100,500,TarjanSCC,0,1789,800
+Medium,100,500,Dijkstra,0,4497,1194
+Large,1000,5000,Kruskal,2,8984,19774
+Large,1000,5000,Prim,3,9407,13375
+Large,1000,5000,TopologicalSort,1,7019,12000
+Large,1000,5000,TarjanSCC,0,5132,8000
+Large,1000,5000,Dijkstra,2,4761,11959
